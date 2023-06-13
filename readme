@@ -5,13 +5,16 @@ O presente projeto é uma estante virtual de livros anunciados, contendo as fun�
 Foram usadas as seguintes tecnologias para a criação do projeto: HTML, CSS, Node Js, React, MySQL, Postman (pare realizar testes dos metodos GET e POST).
 
 
-Para iniciar o projeto é necessario ter instalado o Node Js e o banco de dados MySQL.
+Para iniciar o projeto é necessário ter instalado o Node Js e o banco de dados MySQL, também é preferível que utilize o VSCode para melhor visualização.
 
-Inicie um terminal para a pasta BackEnd e nele digite npm install, em seguida npm start, repita o processo para a pasta CLIENT.
+O primeiro passo é realizar a criação do bando de dados, utilizando o script SQL que se encontra nos arquivos do projeto.
 
-Após a execução dos comando, uma janela do seu navegador ira abrir o projeto.
+Inicie um terminal para a pasta BackEnd e nele digite o comando npm install, após terminar instalações das dependências, execute o comando npm start.
+Realize o mesmo processo no terminal da pasta CLIENT, executando npm install, e após terminar as instalações execute npm start.
 
-Arquivo do SQL incluso no projeto, para que seja possivel a criação do banco de dados. (Consultar arquivo bancoSQL.sql)
+Após a execução dos comandos, uma janela do seu navegador ira abrir o projeto.
+
+
 
 
 
