@@ -1,0 +1,29 @@
+Projeto desenvolvido para a Disciplina Usabilidade, desenvolvimento web, mobile e jogos.
+
+O presente projeto é uma estante virtual de livros anunciados, contendo as funções de um CRUD uma interface web.
+
+Foram usadas as seguintes tecnologias para a criação do projeto: HTML, CSS, Node Js, React, MySQL, Postman (pare realizar testes dos metodos GET e POST).
+
+
+Para iniciar o projeto é necessario ter instalado o Node Js e o banco de dados MySQL.
+
+Inicie um terminal para a pasta BackEnd e nele digite npm install, em seguida npm start, repita o processo para a pasta CLIENT.
+
+Após a execução dos comando, uma janela do seu navegador ira abrir o projeto.
+
+Arquivo do SQL incluso no projeto, para que seja possivel a criação do banco de dados. (Consultar arquivo bancoSQL.sql)
+
+
+
+
+Os autores do projeto são:
+
+Camila Evelyn Correa Teixeira da Costa RA: 125111350341
+
+Gean Lucas de Souza Lima RA: 125111359133
+
+Paloma Aparecida dos Santos Silva RA: 125111375946
+
+Bruno Marcomini Gimenes Pereira RA: 125111348740
+
+Jhonatan Gomes Lopes RA: 125111374844
